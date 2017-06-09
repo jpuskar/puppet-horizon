@@ -1,3 +1,9 @@
+
+## 8.1.0.1
+
+- Fixed resource issue in `horizon::wsgi::apache` when using puppetlabs-concat 2.x.x.
+- https://github.com/jpuskar/puppet-horizon/commit/c3e2e961b747acb52c5a65163d0787f17f959cf0
+
 ## 8.0.0 and beyond
 
 From 8.0.0 release and beyond, release notes are published on
